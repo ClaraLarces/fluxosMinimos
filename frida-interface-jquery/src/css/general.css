@@ -1,0 +1,12 @@
+.custom-list {
+    border-width: 1px;
+    border-color: #808080;
+    padding: 10px;
+    border-radius: 75%;
+}
+
+.branquinho {
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 5%;
+}
